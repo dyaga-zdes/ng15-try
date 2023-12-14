@@ -1,0 +1,10 @@
+:host {
+  font-weight: 600;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #3AA55C;
+}

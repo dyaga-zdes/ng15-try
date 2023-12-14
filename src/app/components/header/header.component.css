@@ -1,0 +1,18 @@
+:host {
+  display: block;
+  background: #282930;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+#header-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  padding: 0 60px;
+  color: inherit;
+  text-decoration: none;
+}
+#header-wrap a {
+  color: inherit;
+  text-decoration: none;
+}
