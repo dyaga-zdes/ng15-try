@@ -1,0 +1,161 @@
+{
+  "main": [
+    {
+      "text": "Решения",
+      "path": "solutions",
+      "id": 28
+    },
+    {
+      "text": "Продукты",
+      "path": "products",
+      "id": 29
+    },
+    {
+      "text": "О&nbsp;компании",
+      "path": "about",
+      "id": 30
+    },
+    {
+      "text": "Карьера",
+      "path": "career",
+      "id": 32
+    }
+  ],
+  "lk": [
+    {
+      "text": "Личный кабинет",
+      "path": "lk",
+      "id": 241
+    },
+    {
+      "text": "Уведомления",
+      "path": "notifications",
+      "id": 240
+    },
+    {
+      "text": "Версии&nbsp;ПО",
+      "path": "updates",
+      "id": 239
+    },
+    {
+      "text": "Сертификаты и&nbsp;лицензии",
+      "path": "certificates",
+      "id": 254
+    },
+    {
+      "text": "Запросы",
+      "path": "requests",
+      "id": 238
+    },
+    {
+      "text": "Пользователи",
+      "path": "users",
+      "id": 237
+    },
+    {
+      "text": "Профиль",
+      "path": "profile",
+      "id": 236
+    },
+    {
+      "text": "Выйти",
+      "path": "logout",
+      "id": 235
+    }
+  ],
+  "footer": [
+    {
+      "text": "Решения",
+      "path": "solutions",
+      "id": 165
+    },
+    {
+      "text": "Продукты",
+      "path": "products",
+      "children": [
+        {
+          "text": "подраздел",
+          "path": "subsections1",
+          "id": 167
+        }
+      ],
+      "id": 166
+    },
+    {
+      "text": "О&nbsp;компании",
+      "path": "about",
+      "children": [
+        {
+          "text": "История",
+          "path": "history",
+          "id": 168
+        },
+        {
+          "text": "Руководство",
+          "path": "management",
+          "id": 171
+        },
+        {
+          "text": "Лицензии и&nbsp;сертификаты",
+          "path": "licenses",
+          "id": 172
+        },
+        {
+          "text": "Новости",
+          "path": "news",
+          "id": 173
+        }
+      ],
+      "id": 74
+    },
+    {
+      "text": "Контакты",
+      "path": "contacts",
+      "id": 85
+    },
+    {
+      "text": "Нормативные документы",
+      "path": "about/regulatory-documents",
+      "children": [
+        {
+          "text": "Политика обработки персональных данных",
+          "path": "privacy",
+          "id": 169
+        },
+        {
+          "text": "Специальная оценка условий труда",
+          "path": "estimation",
+          "id": 170
+        }
+      ],
+      "id": 81
+    },
+    {
+      "text": "Карьера",
+      "path": "career",
+      "id": 79
+    }
+  ],
+  "company": [
+    {
+      "text": "История",
+      "path": "history",
+      "id": 183
+    },
+    {
+      "text": "Лицензии",
+      "path": "licenses",
+      "id": 187
+    },
+    {
+      "text": "Новости",
+      "path": "news",
+      "id": 185
+    },
+    {
+      "text": "Руководство",
+      "path": "management",
+      "id": 184
+    }
+  ]
+}

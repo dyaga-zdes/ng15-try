@@ -4,6 +4,7 @@
 a {
   color: inherit;
   text-decoration: inherit;
+  transition: color 100ms ease-in-out;
 }
 a:hover {
   color: #3AA55C;

@@ -1,1 +1,19 @@
-<img src="../../../assets/preloader-logo.svg" alt="dyaga.pro logo">
+<app-content-area-preloader @hidePreloader *ngIf="!this.isShowedLogoPreloader"></app-content-area-preloader>
+
+<div class="about-person" [@showContent]="this.isShowedLogoPreloader ? 'showed' : 'hidden' ">
+  <img src="../../../assets/photo.jpg" alt="dyaga">
+  <h1>
+    <span>Веб-разработчик</span>
+    <br>
+    Видягин Евгений
+  </h1>
+  <p>
+    Предлагаю свои услуги в сфере веб-разработок.<br>
+    Проектирую и программирую сайты разной сложности, от лендингов и интернет-магазинов, до кор.порталов различной сложности.<br>
+    Оказываю услуги хостинга и поддержки ваших сайтов.
+  </p>
+  <p>
+    Занимаюсь разработкой корпоративных сайтов, интернет-магазинов и лендингов с 2014 года.<br>
+    Работаю только с российской <a href="https://www.1c-bitrix.ru/products/cms/license.php" rel="nofollow">CMS Битрикс</a>.
+  </p>
+</div>

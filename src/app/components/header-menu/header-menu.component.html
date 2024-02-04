@@ -1,11 +1,5 @@
 <ul>
-  <li>
-    <a href="#modules">Модули</a>
-  </li>
-  <li>
-    <a href="#cases">Кейсы</a>
-  </li>
-  <li>
-    <a href="#contacts">Контакты</a>
+  <li *ngFor="let item of items">
+    <a href="#{{ item.path }}" [innerHtml]="item.text"></a>
   </li>
 </ul>

@@ -2,6 +2,7 @@
   display: block;
   background: #282930;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 300;
 }
 #header-wrap {
   display: flex;

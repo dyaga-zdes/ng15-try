@@ -63,7 +63,8 @@
               "browserTarget": "ng15-try:build:production"
             },
             "development": {
-              "browserTarget": "ng15-try:build:development"
+              "browserTarget": "ng15-try:build:development",
+              "proxyConfig": "proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"

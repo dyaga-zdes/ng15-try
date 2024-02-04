@@ -1,0 +1,8 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: #2F3035;
+  font: 400 16px "Montserrat", serif;
+  color: #fff;
+}

@@ -1,0 +1,20 @@
+{
+  "/api/**": {
+    "target": "http://dev.dyaga.ru/",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  },
+  "/f/**": {
+    "target": "http://dev.dyaga.ru/",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  },
+  "/upload/**": {
+    "target": "http://dev.dyaga.ru/",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
